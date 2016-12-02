@@ -4,5 +4,5 @@
 [![Build Status](https://travis-ci.org/twaugh/system-config-printer.svg?branch=master)](https://travis-ci.org/twaugh/system-config-printer)
 
 This is a graphical tool for CUPS administration. It uses IPP to
-configure a CUPS server.
+configure a CUPS server.\n
 2016/12/02    Add Emind selectPrinterwin.ui to select the item of connecting to remote windows server .
