@@ -5,3 +5,4 @@
 
 This is a graphical tool for CUPS administration. It uses IPP to
 configure a CUPS server.
+2016/12/02    Add Emind selectPrinterwin.ui to select the item of connecting to remote windows server .
